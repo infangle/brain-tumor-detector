@@ -29,4 +29,4 @@ This project is licensed under the MIT License.
 ![Training Parameters](![Image](https://github.com/user-attachments/assets/ed3432ef-d9f9-4f64-bad5-b5a3bc8e0506))
 
 ### MRI Upload
-![MRI Upload](MRIupload.png)
+![MRI Upload](![Image](https://github.com/user-attachments/assets/259488c1-afa9-4524-a576-d9529852516c))

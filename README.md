@@ -22,3 +22,11 @@ python brain_tumor_model.py
 
 ## License
 This project is licensed under the MIT License.
+
+## Screenshots
+
+### Training Parameters
+![Training Parameters](trainingParameter.png)
+
+### MRI Upload
+![MRI Upload](MRIupload.png)

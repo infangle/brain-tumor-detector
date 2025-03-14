@@ -139,4 +139,4 @@ with gr.Blocks() as interface:
         predict_button.click(predict_uploaded_image, inputs=img_input, outputs=pred_output)
 
 # Launch Gradio interface
-interface.launch()
+interface.launch(share=True)
